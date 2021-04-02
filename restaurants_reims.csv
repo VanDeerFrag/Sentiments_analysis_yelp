@@ -1,0 +1,225 @@
+id_business,name,#_reviews,address,#_stars
+0,Version Originale,56,25 bis rue du Temple,4
+1,Café du Palais,27,14 Place Myron Herrick,4
+2,Les Cornichons,23,13 rue du Général Sarrail,4
+3,Vapeurs et Gourmandises,13,22 place du Forum,4
+4,Restaurant Café de la Paix,28,25 place Drouet d'Erlon,4
+5,L’Antica,17,48 Rue Chanzy,4
+6,Anna-S La Table Amoureuse,31,6 Rue Gambetta,4
+7,La Cantine du Coq,2,3 rue des Élus,4
+8,L’Opera,2,4 cours Jean-Baptiste Langlet,4
+9,Le Millénaire,41,4 Rue Bertin,4
+10,Le Comptoir du Boeuf,1,38 rue des Élus,4
+11,Au Bureau,29,9 place du Cardinal Luçon,3
+12,Le Tablier,6,30-32 place Drouet d'Erlon,4
+13,Le Boulingrin,25,31 rue de Mars,4
+14,Cru Chanzy,10,12 rue Chanzy,3
+15,Bistrot 31,1,1A place Martyrs de la Résistance,5
+16,La Villa,6,30 rue de Mars,4
+17,Les Halles 1924,3,48 rue de Mars,4
+18,Mamie Cook,1,56 rue Chanzy,5
+19,L’Alambic,18,63 bis rue de Chativesle,4
+20,Che Diego,5,2 bd Jules César,4
+21,En Appart’Thé,7,23 rue de Chanzy,4
+22,Brasserie l’Affaire,11,23 rue du temple,3
+23,Le Grand Comptoir,1,2 bd Louis Roederer,5
+24,La Casafa,3,55 rue Ponsardin,4
+25,Le Pré Carré,9,1 rue Jean Jacques Rousseau,4
+26,Le Gaulois,51,2 place Drouet d'Erlon,3
+27,Le Bocal,10,27 rue de Mars,4
+28,Au Plat du Jour,11,217 Rue du Barbâtre,4
+29,Harold,2,27 rue de Vesle,4
+30,L’Édito,29,80 place Drouet d'Erlon,3
+31,Sacré Burger,3,24 rue de Tambour,4
+32,Chez P’tit Viet,2,11 rue Condorcet,4
+33,La Casa D’urso,13,1 Rue Barbatre,4
+34,La Médina,13,13 Rue Chativesle,4
+35,Au Cul de Poule,25,46 boulevard Carteret,4
+36,La Storia,3,66 ave Jean Jaurès,3
+37,Food Avenue,4,77 place d'Erlon,4
+38,Il gusto,13,48 Rue Dieu Lumière,4
+39,Le Thiers,3,22 Rue Thiers,4
+40,Le Thiers,3,22 Rue Thiers,4
+41,Le Piazza,61,39 rue du Colonel Fabien,4
+42,Au Petit Comptoir,23,17 rue de Mars,4
+43,Les Crayères - Le Parc,8,64 bd Henry Vasnier,5
+44,Le Foch,21,37 bd Foch,4
+45,Coté Cuisine,40,43 boulevard Foch,4
+46,Le Saint Julien,3,47 rue Eugène-Desteuque,3
+47,Racine,3,6 place Godinot,3
+48,Da Nello,4,39 rue Cérès,4
+49,Restaurant Samjia,2,32 rue Colbert,4
+50,Les Cocottes du Cul de Poule,1,70 rue Cernay,5
+51,Hoang Van,1,54 avenue Jean Jaurès,4
+52,Happy Lunch,4,12 Rue Mars,4
+53,Le Petit Basque,16,13 Rue Du colonel-fabien,4
+54,L’Ardennais,3,9 Avenue Jean Jaurès,4
+55,Bistrot du Forum,9,6 Place Forum,3
+56,Excelsior,3,96 place Drouet d'Erlon,3
+57,Gin Pamp,26,14 rue Théodore Dubois,4
+58,Le Saint-Rémi,3,4 bis esplanade Fléchambault,4
+59,Le Grand Café,57,92 place Drouet d'Erlon,3
+60,Le Lion de Belfort,34,Place Drouet d'Erlon,3
+61,Kim-long,7,14 Rue de Tambour,4
+62,Il Duomo,6,46 rue Buirette,4
+63,231 East Street,2,Place Drouet d'Erlon,4
+64,L’Apostrophe,81,59 place Drouet d'erlon,3
+65,Le Carnot,3,5 Rue Carnot,4
+66,The George’s,4,32 place du Forum,3
+67,L’Assiette Champenoise,25,40 ave Paul-Vaillant-Couturier,4
+68,La Gazelle,4,13 Avenue Jean-Jaurès,4
+69,La Trattoria,23,45 rue Chanzy,3
+70,La Table des Halles,5,23 Rue Mars,4
+71,3 Brasseurs,96,73 place Drouet d'Erlon,3
+72,Excalibur,5,5 Rue de la Grue,4
+73,La Végé Table,2,23 passage Talleyrand,4
+74,Le Jardin,19,7 avenue du Général Giraud,4
+75,Le Palanquin,10,61 rue de Chanzy,4
+76,Un Indien dans la ville,8,7 place Drouet d'Erlon,4
+77,Bagelstein,1,7 place du Forum,3
+78,L-Bee,12,65 Place d'Erlon,4
+79,Glue Pot,49,49 Place Drouet d'Erlon,3
+80,Chez Nous,3,32 avenue d'Épernay,5
+81,Le Taj Mahal,5,87 place Drouet d'Erlon,3
+82,Le Chamois,19,45 Rue des Capucins,4
+83,Doko Koko Bistro,1,8 rue Colbert,5
+84,Le Fléchambault,2,2 esplanade Fléchambault,4
+85,Panda Plancha,3,1 boulevard Marcelin Berthelot,4
+86,Les Caves du Boulingrin,4,23 bis rue de Mars,3
+87,Pokers Pizza,2,41 rue du Barbâtre,4
+88,Chez Coco,1,12 rue de Mars,4
+89,Côté Terrasse,1,33 Av Clemenceau,4
+90,Côté Terrasse,1,33 Av Clemenceau,4
+91,La Petite Seine,1,Bd Docteur Henri Henrot,4
+92,Louise,37,15 Rue Marx Dormoy,3
+93,Brasserie Saint Maurice,1,38 Rue St Maurice,4
+94,Au Comptoir des Rêves,1,6 Rue du Barbâtre,5
+95,Le Grand Jardin de Chine,11,36 Rue de Chanzy,3
+96,Chèvre et Menthe,18,63 rue Barbâtre,3
+97,Le Cardinal,6,1 Place Martyrs De La Résistance,3
+98,le bouchon du forum,1,14 Place du Forum,5
+99,Le QG,3,16 rue de Mars,3
+100,L’Etna,2,156 Boulevard Pommery,4
+101,La Sardegna,2,15-19 place Luton,4
+102,La Rose des Sables,2,152bis Boulevard Saint-Marceaux,4
+103,L’Espelette,21,29 Rue Roger Salengro,4
+104,The Mother Road,1,,4
+105,Le Bistrot d’Edgar,7,4 place du Forum,2
+106,Sushi Shop,17,Rue de l'Arbalète,3
+107,a l ere du temps,3,123 Avenue Laon,4
+108,Croquignole,7,55 Rue Camille Lenoir,3
+109,Edgar Bistrot,5,4 place du Forum,3
+110,Le Sourire,2,Rue Cardinal de Lorraine,3
+111,La Compagnie des Zincs,1,4 Rue des Terres Blanches,4
+112,Au Phonographe,29,96 Avenue Jean Jaurès,4
+113,La Vigneraie,10,14 rue de Thillois,3
+114,Oma Coffee,1,44 rue Gambetta,5
+115,Le Colibri,17,12 Rue Chanzy,3
+116,Mer Noire,2,129 Rue Vesle,4
+117,L’Appart,6,9 Avenue de Laon,4
+118,Café Brasserie Martin,11,32 place Drouet d'erlon,3
+119,La Maye,7,1 Rue De reims,4
+120,Côté Sushi,1,7 place du Forum,1
+121,La Ferme des Saveurs,1,12 avenue Hoche,4
+122,Restaurant Aux Bons Amis,1,13 rue Gosset,4
+123,Sarl Delis,1,2 Boulevard Pommery,4
+124,La Villa,2,30 rue de Mars,3
+125,The Kilberry,23,182 rue de Vesles,4
+126,Buffalo Grill,2,Place du Général de Gaulle,3
+127,Marmara,2,141 Avenue de Laon,4
+128,La Garenne,1,Route De Soissons Rn 31,4
+129,A Casa Mia,13,84 place Drouet d'Erlon,3
+130,Continental Restaurant,4,,3
+131,Le Paysan,4,16 Rue de Fismes,4
+132,Le Mandarin,5,34 rue Thillois,3
+133,Restaurant Pizza Sarda,12,58 Rue Gambetta,3
+134,Alloco Show,1,98 Rue Gambetta,5
+135,Le Stalingrad,5,2 Place Stalingrad,3
+136,Planet cash,1,165 Rue de Vesle,5
+137,Super Crêpes,2,1 place d'Erlon,3
+138,Les Milles Gourmands,3,8 Rue Edouard Mignot,4
+139,Les Sarments,6,48 Rue Léon Faucher,3
+140,la mediterranée,4,26 place drouet d'erlon,3
+141,L’Atelier des Crêpes,8,Zone Commerciale IKEA,3
+142,Torboyo,2,5 rue de Chativesle,4
+143,Le Maharajah,7,13 rue de Thillois,3
+144,The Daily Fresh,1,27 Rue Gambetta,4
+145,Le Patio,4,34 ave Paris,3
+146,Le New Thai,3,19 rue de Thillois,4
+147,La Boite à Pizza,2,59 avenue Jean Jaurès,4
+148,Let’s Sandwich,1,24 place Myron Herrick,4
+149,Ristorante Del Arte,1,10 rue Jacques de la Giraudière,5
+150,Suzette et Sarrazin,2,65 rue Chanzy,3
+151,Le Bouclar,1,47 rue des Capucins,1
+152,Pulpy Moules,1,251 rue de Courlancy,5
+153,L’atelier des crêpes,2,65 Rue Chanzy,3
+154,Le,1,17 Rue Gabriel Voisin,3
+155,Chicken Drive,2,405 Avenue Laon,4
+156,Buffalo Grill,1,rue Charles Guggiari,3
+157,McDonald’s,15,2-4 rue de Talleyrand,2
+158,Istanbul,10,66 Place D'erlon,3
+159,Mezzo di Pasta,4,47 Place Drouet d'Erlon,4
+160,Le Pavillon CG,2,7 rue Noël,3
+161,Du Forum,1,6 Forum,3
+162,Aux Côteaux,52,86 Place d'Erlon,3
+163,Intercuisto,3,189 ave Jean Jaurès,2
+164,Boeuf ou Salade,38,41 place Drouet d'Erlon,3
+165,Le Latin,7,90 Place d'Erlon,3
+166,La Calabraise d’Erlon,14,89 Place Drouet D'erlon,3
+167,City Food,2,178 Rue Vesle,4
+168,Royal Saint Brice,2,Rue Bernex,1
+169,Bristol Café,4,74 Place Drouet d'Erlon,4
+170,Le Menu du Jour,1,39 rue de Venise,4
+171,Bar Les Supporters,1,44 rue des élus,5
+172,Bistro Du Marché,2,23 rue de Mars,3
+173,L’Antr’act,1,5 Rue salin,1
+174,Café Leffe,28,85 place Drouet d'Erlon,3
+175,pizzeria,3,70 avenue georges clémenceau,4
+176,Courtepaille,3,Rue Maurice Hollande,3
+177,Quai N°1,3,Cour de la Gare (2 bd Louis Roederer),4
+178,Le Boulingrin,1,34 Rue Mars,2
+179,Latino,22,33 place Drouet d'Erlon,2
+180,La Grappa,8,49 Rue du Colonel-Fabien,4
+181,L’Auberge du Maret,2,70 Rue Vesle,1
+182,Center Food,1,1 Rue Jeanne Jugan,4
+183,Quick Drive,3,Avenue Gén Bonaparte,4
+184,le Nirvana,1,37 rue Jacquart,3
+185,Flunch,3,,4
+186,Le Luxor,2,103 Rue Neufchâtel,2
+187,Bar Le National,1,1 Rue Colonel Fabien,4
+188,Central Park Café,1,5 Place Léon Bourgeois,3
+189,pizza la mama,2,134 bvd saint marceaux,3
+190,Chez Anita,34,37 Rue Ernest Renan,3
+191,Au Tambour,1,60 Rue de Magneaux,2
+192,Anatolie,2,24-26 rue de L' Etape,3
+193,Kyodo Sushi,3,130 avenue de Laon,3
+194,La Boucherie,13,64 place Drouet d'erlon,2
+195,Le Paris,1,23 Avenue Carnot,3
+196,Burger King,10,80 place Drouet d'Erlon,3
+197,Color Bowl - Pizzeria-Brasserie,2,16 rue Nicolas Appert,1
+198,Dragon d’Or,7,11 Rue Emile Zola,4
+199,Pizza du coin,1,233 Rue de Neufchâtel,4
+200,Le Celtique,1,64 Rue Gambetta,3
+201,Topkapi Doner Kebab,1,11 rue Condorcet,2
+202,Casse Croute Latin,3,13 Place Drouet D'erlon,2
+203,Céleste D’Asie,3,17 rue Maurice Hollande,3
+204,Cité de Chine,5,1 Boulevard Marcelin Berthelot,4
+205,L’Indochine,4,19 Rue de Thillois,3
+206,Cernay Doner Kebab,1,75 rue Cernay,2
+207,Pizzeria La Calabraise,10,4 rue de la Magdeleine,3
+208,Bistrot le Henri IV,3,29 Rue Henri IV,3
+209,Del Arte,1,ZAC Jean XXIII,2
+210,l’escale,7,132 rue de vesles,3
+211,Uncle Sam Burgers,1,77 place Drouet d'Erlon,3
+212,Subway,1,63 place Drouet d'Erlon,3
+213,Le Fast,1,49 rue de Courcelles,3
+214,Au Congrès,2,41 bd Foch,2
+215,Pizza Pino,9,82 place d'erlon,2
+216,Le Condorcet,2,6 Rue Condorcet,2
+217,Royal Kebab,3,6 Rue Capucins,3
+218,Café Bar Au Bon Accueil,1,274 avenue Laon,1
+219,Le Grain de Riz,1,45 Place d'Erlon,1
+220,Les Gourmandises de Marido,2,12 passage St Jacques,3
+221,El Cordo,1,177 Rue Paul Vaillant Couturier,1
+222,Crescendo,1,boulevard des tondeurs,2
+223,Quick Restaurant,1,rue André Chaillot,2
